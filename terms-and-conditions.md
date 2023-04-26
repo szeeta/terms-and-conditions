@@ -43,7 +43,7 @@ The user who created the event can transfer the event to any user at any time.
 
 #### support tokens
 
-* Add token names here
+* View supported tokens when creating your event.
 
 ### Terms and conditions related to the automated NFT reward system
 
